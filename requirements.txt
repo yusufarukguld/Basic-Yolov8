@@ -3,5 +3,4 @@ streamlit
 torch
 torchvision
 ultralytics
-tempfile
 numpy
