@@ -1,7 +1,3 @@
-fastapi
-pandas
+opencv-python
 streamlit
-torch
-torchvision
-pillow
-Python-IO
+ultralytics
