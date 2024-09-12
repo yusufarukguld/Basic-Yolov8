@@ -1,0 +1,7 @@
+fastapi
+pandas
+streamlit
+torch
+torchvision
+pillow
+Python-IO
