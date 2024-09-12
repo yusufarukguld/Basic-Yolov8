@@ -1,3 +1,7 @@
 opencv-python
 streamlit
+torch
+torchvision
 ultralytics
+tempfile
+numpy
