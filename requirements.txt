@@ -1,3 +1,2 @@
 streamlit
 ultralytics==8.0.149
-opencv-python==4.6.0.66
