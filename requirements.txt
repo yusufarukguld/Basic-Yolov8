@@ -1,6 +1,6 @@
 streamlit
 torch
 torchvision
-ultralytics
+ultralytics==8.0.149
 numpy
 opencv-python==4.6.0.66
